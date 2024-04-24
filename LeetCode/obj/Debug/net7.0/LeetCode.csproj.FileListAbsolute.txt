@@ -1,0 +1,14 @@
+F:\Programação\Testes\LeetCode\LeetCode\bin\Debug\net7.0\LeetCode.exe
+F:\Programação\Testes\LeetCode\LeetCode\bin\Debug\net7.0\LeetCode.deps.json
+F:\Programação\Testes\LeetCode\LeetCode\bin\Debug\net7.0\LeetCode.runtimeconfig.json
+F:\Programação\Testes\LeetCode\LeetCode\bin\Debug\net7.0\LeetCode.dll
+F:\Programação\Testes\LeetCode\LeetCode\bin\Debug\net7.0\LeetCode.pdb
+F:\Programação\Testes\LeetCode\LeetCode\obj\Debug\net7.0\LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programação\Testes\LeetCode\LeetCode\obj\Debug\net7.0\LeetCode.AssemblyInfoInputs.cache
+F:\Programação\Testes\LeetCode\LeetCode\obj\Debug\net7.0\LeetCode.AssemblyInfo.cs
+F:\Programação\Testes\LeetCode\LeetCode\obj\Debug\net7.0\LeetCode.csproj.CoreCompileInputs.cache
+F:\Programação\Testes\LeetCode\LeetCode\obj\Debug\net7.0\LeetCode.dll
+F:\Programação\Testes\LeetCode\LeetCode\obj\Debug\net7.0\refint\LeetCode.dll
+F:\Programação\Testes\LeetCode\LeetCode\obj\Debug\net7.0\LeetCode.pdb
+F:\Programação\Testes\LeetCode\LeetCode\obj\Debug\net7.0\LeetCode.genruntimeconfig.cache
+F:\Programação\Testes\LeetCode\LeetCode\obj\Debug\net7.0\ref\LeetCode.dll
